@@ -1,0 +1,22 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual Environment
+venv/
+env/
+
+# Django-specific
+*.log
+
+# Environment Variables
+.env
+
+# IDEs/Editors
+.vscode/
+.idea/
+
+# System Files
+.DS_Store
+Thumbs.db
